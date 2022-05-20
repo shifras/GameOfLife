@@ -9,7 +9,7 @@ To install project in IDE:
 4. Run GOL.java inside IDE.
 5. Enjoy!
 
-To run a build:
+To run a build:</br></br>
 In order to start Game Of Life simulator at least JDK 17.0.3 is required.
 
 1. download build/GOL.jar
